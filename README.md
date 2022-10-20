@@ -1,11 +1,16 @@
 
 RESEARCH MOTIVATION
+
 ● Portfolio Optimization is very important. Advisable to diversify investments 
 across not just equity but also commodity markets.
+
 ● Commodity markets can be used to gauge Dow Jones Price Movement?
+
 ● Technical analysis is a way to forecast the markets. This helps traders and 
 investors understand future price movement across variety of time frames.
+
 ● There are a whole lot of technical indicators. 
+
 ● Which are the ones that should be a “must use” for understanding and 
 predicting Dow Jones? 
 
